@@ -1,5 +1,5 @@
 # Contact Management System
-
+<center><img src="https://images.businessnewsdaily.com/app/uploads/2021/07/08121505/what-is-contact-management.png" alt="image" height=400px width=400px></center>
 This is a simple contact management system implemented in C programming language. It allows users to store, display, modify, and delete contacts. Additionally, it supports features such as adding contacts to favorites, displaying only favorite contacts, saving contacts to a file, and searching for contacts by name. Private contacts are also supported with a password authentication system.
 
 ## Features
